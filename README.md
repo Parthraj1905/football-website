@@ -36,8 +36,8 @@ Explore the app live: [Click here to launch fotmob💻](https://football-info-ma
 
 
 <p float="left">
-  <img src="./public/preview.png" width="500" />
-  <img src="./public/preview2.png" width="500" />
-  <img src="./public/preview3.png" width="500" />
-  <img src="./public/preview4.png" width="500" />
+  <img src="./public/preview.png" width="350" />
+  <img src="./public/preview2.png" width="350" />
+  <img src="./public/preview3.png" width="350" />
+  <img src="./public/preview4.png" width="350" />
 </p>
